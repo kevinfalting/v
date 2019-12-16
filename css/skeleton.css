@@ -429,3 +429,7 @@ there.
 .outro * {
   color: #f24d16;
 }
+
+.intro a {
+  margin-right: 2rem;
+}
