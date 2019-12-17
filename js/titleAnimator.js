@@ -21,7 +21,6 @@ function updateTitle(dotCount) {
         dots += ".";
     }
     title.innerText = `Vikki Chan is ${action} ${dots}${icon}`;
-    console.log(`Vikki Chan is ${action} ${dots}${icon}`);
 }
 
 let counter = 0;
